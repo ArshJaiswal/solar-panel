@@ -1,2 +1,0 @@
-# solar-panel
-che project
